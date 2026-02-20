@@ -1,0 +1,15 @@
+/home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/package_run_dependencies/exercise
+/home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/parent_prefix_path/exercise
+/home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.sh
+/home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.dsv
+/home/nathan/practice_ws/install/exercise/share/exercise/environment/path.sh
+/home/nathan/practice_ws/install/exercise/share/exercise/environment/path.dsv
+/home/nathan/practice_ws/install/exercise/share/exercise/local_setup.bash
+/home/nathan/practice_ws/install/exercise/share/exercise/local_setup.sh
+/home/nathan/practice_ws/install/exercise/share/exercise/local_setup.zsh
+/home/nathan/practice_ws/install/exercise/share/exercise/local_setup.dsv
+/home/nathan/practice_ws/install/exercise/share/exercise/package.dsv
+/home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/packages/exercise
+/home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig.cmake
+/home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig-version.cmake
+/home/nathan/practice_ws/install/exercise/share/exercise/package.xml

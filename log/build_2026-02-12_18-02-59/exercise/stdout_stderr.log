@@ -1,0 +1,21 @@
+-- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.14 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nathan/practice_ws/build/exercise
+-- Install configuration: ""
+-- Installing: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/package_run_dependencies/exercise
+-- Installing: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/parent_prefix_path/exercise
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.sh
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.dsv
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/environment/path.sh
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/environment/path.dsv
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.bash
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.sh
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.zsh
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.dsv
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/package.dsv
+-- Installing: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/packages/exercise
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig.cmake
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig-version.cmake
+-- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/package.xml

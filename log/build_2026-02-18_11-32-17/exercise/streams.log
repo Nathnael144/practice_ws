@@ -1,0 +1,20 @@
+[0.006s] Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+[0.036s] Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+[0.055s] Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --install /home/nathan/practice_ws/build/exercise
+[0.071s] -- Install configuration: ""
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/package_run_dependencies/exercise
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/parent_prefix_path/exercise
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.sh
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.dsv
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/path.sh
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/path.dsv
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.bash
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.sh
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.zsh
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.dsv
+[0.071s] -- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/package.dsv
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/packages/exercise
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig.cmake
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig-version.cmake
+[0.071s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/package.xml
+[0.075s] Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --install /home/nathan/practice_ws/build/exercise

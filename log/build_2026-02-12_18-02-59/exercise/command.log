@@ -1,0 +1,6 @@
+Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise
+Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise
+Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --install /home/nathan/practice_ws/build/exercise
+Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --install /home/nathan/practice_ws/build/exercise

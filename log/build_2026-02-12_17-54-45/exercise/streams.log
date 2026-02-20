@@ -1,0 +1,35 @@
+[0.008s] Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise
+[0.140s] -- The C compiler identification is GNU 11.4.0
+[0.207s] -- The CXX compiler identification is GNU 11.4.0
+[0.220s] -- Detecting C compiler ABI info
+[0.266s] -- Detecting C compiler ABI info - done
+[0.272s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.272s] -- Detecting C compile features
+[0.273s] -- Detecting C compile features - done
+[0.275s] -- Detecting CXX compiler ABI info
+[0.325s] -- Detecting CXX compiler ABI info - done
+[0.331s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.331s] -- Detecting CXX compile features
+[0.332s] -- Detecting CXX compile features - done
+[0.335s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.418s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.488s] [31mCMake Error at CMakeLists.txt:15 (find_package):
+[0.488s]   By not providing "Findament_lint_auto.cmake" in CMAKE_MODULE_PATH this
+[0.488s]   project has asked CMake to find a package configuration file provided by
+[0.488s]   "ament_lint_auto", but CMake did not find one.
+[0.488s] 
+[0.489s]   Could not find a package configuration file provided by "ament_lint_auto"
+[0.489s]   with any of the following names:
+[0.489s] 
+[0.489s]     ament_lint_autoConfig.cmake
+[0.489s]     ament_lint_auto-config.cmake
+[0.489s] 
+[0.489s]   Add the installation prefix of "ament_lint_auto" to CMAKE_PREFIX_PATH or
+[0.489s]   set "ament_lint_auto_DIR" to a directory containing one of the above files.
+[0.489s]   If "ament_lint_auto" provides a separate development package or SDK, be
+[0.489s]   sure it has been installed.
+[0.489s] 
+[0.489s] [0m
+[0.489s] -- Configuring incomplete, errors occurred!
+[0.489s] See also "/home/nathan/practice_ws/build/exercise/CMakeFiles/CMakeOutput.log".
+[0.493s] Invoked command in '/home/nathan/practice_ws/build/exercise' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise

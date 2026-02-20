@@ -1,0 +1,2 @@
+Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise
+Invoked command in '/home/nathan/practice_ws/build/exercise' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise

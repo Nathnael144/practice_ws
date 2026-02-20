@@ -1,0 +1,22 @@
+[0.006s] Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise
+[0.029s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.092s] -- Configuring incomplete, errors occurred!
+[0.092s] See also "/home/nathan/practice_ws/build/exercise/CMakeFiles/CMakeOutput.log".
+[0.092s] [31mCMake Error at CMakeLists.txt:15 (find_package):
+[0.092s]   By not providing "Findament_lint_auto.cmake" in CMAKE_MODULE_PATH this
+[0.092s]   project has asked CMake to find a package configuration file provided by
+[0.092s]   "ament_lint_auto", but CMake did not find one.
+[0.092s] 
+[0.092s]   Could not find a package configuration file provided by "ament_lint_auto"
+[0.093s]   with any of the following names:
+[0.093s] 
+[0.093s]     ament_lint_autoConfig.cmake
+[0.093s]     ament_lint_auto-config.cmake
+[0.093s] 
+[0.093s]   Add the installation prefix of "ament_lint_auto" to CMAKE_PREFIX_PATH or
+[0.093s]   set "ament_lint_auto_DIR" to a directory containing one of the above files.
+[0.093s]   If "ament_lint_auto" provides a separate development package or SDK, be
+[0.093s]   sure it has been installed.
+[0.093s] 
+[0.093s] [0m
+[0.096s] Invoked command in '/home/nathan/practice_ws/build/exercise' returned '1': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake /home/nathan/practice_ws/src/exercise -DCMAKE_INSTALL_PREFIX=/home/nathan/practice_ws/install/exercise
