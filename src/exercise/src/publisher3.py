@@ -44,4 +44,5 @@ if __name__=="__main__":
 #    (processing callbacks) until interrupted by the user (Ctrl+C).
 # 4. The script prints status messages when starting and terminating the node.
 #
-# This is a basic example of a ROS 2 publisher node in Python, useful for learning ROS 2 communication patterns.
+#
+#  This is a basic example of a ROS 2 publisher node in Python, useful for learning ROS 2 communication patterns.
