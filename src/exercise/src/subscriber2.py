@@ -54,4 +54,5 @@ if __name__=="__main__":
 # 4. Entry Point:
 #    - If the script is run directly, it calls main().
 #
+# Note: The node name "helloworldpub" is a bit misleading since this is a subscriber. It might be better to name it "helloworldsub" or something similar for clarity.
 # Note: There are some minor typos (e.g., class name should be capitalized by convention, and node name might be better as 'helloworldsub'), but the code will function as a basic ROS 2 subscriber.
