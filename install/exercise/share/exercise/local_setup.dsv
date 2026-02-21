@@ -1,2 +1,3 @@
 source;share/exercise/environment/ament_prefix_path.sh
 source;share/exercise/environment/path.sh
+source;share/exercise/environment/pythonpath.sh

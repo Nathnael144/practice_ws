@@ -1,0 +1,4 @@
+[console_scripts]
+my_publisher = my_pakage.publisher2:main
+my_subscriber = my_pakage.subscriber2:main
+

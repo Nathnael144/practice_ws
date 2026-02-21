@@ -1,0 +1,41 @@
+[0.425s] Invoking command in '/home/nathan/practice_ws/src/my_pakage': PYTHONPATH=/home/nathan/practice_ws/build/my_pakage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pakage build --build-base /home/nathan/practice_ws/build/my_pakage/build install --record /home/nathan/practice_ws/build/my_pakage/install.log --single-version-externally-managed install_data
+[0.558s] running egg_info
+[0.558s] creating ../../build/my_pakage/my_pakage.egg-info
+[0.558s] writing ../../build/my_pakage/my_pakage.egg-info/PKG-INFO
+[0.558s] writing dependency_links to ../../build/my_pakage/my_pakage.egg-info/dependency_links.txt
+[0.558s] writing entry points to ../../build/my_pakage/my_pakage.egg-info/entry_points.txt
+[0.558s] writing requirements to ../../build/my_pakage/my_pakage.egg-info/requires.txt
+[0.558s] writing top-level names to ../../build/my_pakage/my_pakage.egg-info/top_level.txt
+[0.559s] writing manifest file '../../build/my_pakage/my_pakage.egg-info/SOURCES.txt'
+[0.559s] reading manifest file '../../build/my_pakage/my_pakage.egg-info/SOURCES.txt'
+[0.560s] writing manifest file '../../build/my_pakage/my_pakage.egg-info/SOURCES.txt'
+[0.560s] running build
+[0.560s] running build_py
+[0.560s] creating /home/nathan/practice_ws/build/my_pakage/build
+[0.560s] creating /home/nathan/practice_ws/build/my_pakage/build/lib
+[0.560s] creating /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage
+[0.560s] copying my_pakage/subscriber2.py -> /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage
+[0.560s] copying my_pakage/__init__.py -> /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage
+[0.560s] copying my_pakage/publisher2.py -> /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage
+[0.560s] running install
+[0.560s] running install_lib
+[0.561s] creating /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage
+[0.561s] copying /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage/subscriber2.py -> /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage
+[0.561s] copying /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage/__init__.py -> /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage
+[0.561s] copying /home/nathan/practice_ws/build/my_pakage/build/lib/my_pakage/publisher2.py -> /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage
+[0.561s] byte-compiling /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage/subscriber2.py to subscriber2.cpython-310.pyc
+[0.561s] byte-compiling /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage/__init__.py to __init__.cpython-310.pyc
+[0.562s] byte-compiling /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage/publisher2.py to publisher2.cpython-310.pyc
+[0.562s] running install_data
+[0.562s] creating /home/nathan/practice_ws/install/my_pakage/share/ament_index
+[0.562s] creating /home/nathan/practice_ws/install/my_pakage/share/ament_index/resource_index
+[0.562s] creating /home/nathan/practice_ws/install/my_pakage/share/ament_index/resource_index/packages
+[0.562s] copying resource/my_pakage -> /home/nathan/practice_ws/install/my_pakage/share/ament_index/resource_index/packages
+[0.562s] copying package.xml -> /home/nathan/practice_ws/install/my_pakage/share/my_pakage
+[0.562s] running install_egg_info
+[0.563s] Copying ../../build/my_pakage/my_pakage.egg-info to /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage-0.0.0-py3.10.egg-info
+[0.563s] running install_scripts
+[0.576s] Installing my_publisher script to /home/nathan/practice_ws/install/my_pakage/lib/my_pakage
+[0.576s] Installing my_subscriber script to /home/nathan/practice_ws/install/my_pakage/lib/my_pakage
+[0.576s] writing list of installed files to '/home/nathan/practice_ws/build/my_pakage/install.log'
+[0.590s] Invoked command in '/home/nathan/practice_ws/src/my_pakage' returned '0': PYTHONPATH=/home/nathan/practice_ws/build/my_pakage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pakage build --build-base /home/nathan/practice_ws/build/my_pakage/build install --record /home/nathan/practice_ws/build/my_pakage/install.log --single-version-externally-managed install_data

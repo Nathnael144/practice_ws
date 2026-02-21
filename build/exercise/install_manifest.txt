@@ -1,3 +1,14 @@
+/home/nathan/practice_ws/install/exercise/share/exercise/environment/pythonpath.sh
+/home/nathan/practice_ws/install/exercise/share/exercise/environment/pythonpath.dsv
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/publisher.py
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/subscriber.py
+/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/__init__.py
+/home/nathan/practice_ws/install/exercise/lib/exercise/publisher.py
+/home/nathan/practice_ws/install/exercise/lib/exercise/subscriber.py
 /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/package_run_dependencies/exercise
 /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/parent_prefix_path/exercise
 /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.sh

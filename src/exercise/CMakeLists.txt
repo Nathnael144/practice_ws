@@ -11,7 +11,7 @@ find_package(ament_cmake_python REQUIRED)
 find_package(rclpy REQUIRED)
 
 ament_python_install_package(scripts)
-install(
+install( PROGRAMS
   scripts/publisher.py
   scripts/subscriber.py
   DESTINATION lib/${PROJECT_NAME}

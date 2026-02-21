@@ -1,0 +1,43 @@
+[0.006s] Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+[0.042s] Built target ament_cmake_python_copy_scripts
+[0.170s] running egg_info
+[0.171s] writing scripts.egg-info/PKG-INFO
+[0.171s] writing dependency_links to scripts.egg-info/dependency_links.txt
+[0.171s] writing top-level names to scripts.egg-info/top_level.txt
+[0.172s] reading manifest file 'scripts.egg-info/SOURCES.txt'
+[0.172s] writing manifest file 'scripts.egg-info/SOURCES.txt'
+[0.185s] Built target ament_cmake_python_build_scripts_egg
+[0.191s] Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+[0.214s] Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --install /home/nathan/practice_ws/build/exercise
+[0.232s] -- Install configuration: ""
+[0.232s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/pythonpath.sh
+[0.232s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/pythonpath.dsv
+[0.232s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info
+[0.232s] -- Installing: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/top_level.txt
+[0.233s] -- Installing: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/PKG-INFO
+[0.233s] -- Installing: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/SOURCES.txt
+[0.233s] -- Installing: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts-0.0.0-py3.10.egg-info/dependency_links.txt
+[0.233s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts
+[0.233s] -- Installing: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/publisher.py
+[0.233s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/subscriber.py
+[0.233s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/__init__.py
+[0.254s] Listing '/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts'...
+[0.254s] Compiling '/home/nathan/practice_ws/install/exercise/local/lib/python3.10/dist-packages/scripts/publisher.py'...
+[0.257s] -- Installing: /home/nathan/practice_ws/install/exercise/lib/exercise/publisher.py
+[0.257s] -- Installing: /home/nathan/practice_ws/install/exercise/lib/exercise/subscriber.py
+[0.257s] -- Installing: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/package_run_dependencies/exercise
+[0.257s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/parent_prefix_path/exercise
+[0.257s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.sh
+[0.257s] -- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/environment/ament_prefix_path.dsv
+[0.257s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/environment/path.sh
+[0.258s] -- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/environment/path.dsv
+[0.258s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.bash
+[0.258s] -- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.sh
+[0.258s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.zsh
+[0.258s] -- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/local_setup.dsv
+[0.258s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/package.dsv
+[0.258s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/ament_index/resource_index/packages/exercise
+[0.258s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig.cmake
+[0.258s] -- Up-to-date: /home/nathan/practice_ws/install/exercise/share/exercise/cmake/exerciseConfig-version.cmake
+[0.258s] -- Installing: /home/nathan/practice_ws/install/exercise/share/exercise/package.xml
+[0.261s] Invoked command in '/home/nathan/practice_ws/build/exercise' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --install /home/nathan/practice_ws/build/exercise

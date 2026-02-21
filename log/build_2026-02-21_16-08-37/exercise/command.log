@@ -1,0 +1,2 @@
+Invoking command in '/home/nathan/practice_ws/build/exercise': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20
+Invoked command in '/home/nathan/practice_ws/build/exercise' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /home/nathan/.local/bin/cmake --build /home/nathan/practice_ws/build/exercise -- -j20 -l20

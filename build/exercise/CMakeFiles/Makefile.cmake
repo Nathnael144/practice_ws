@@ -36,6 +36,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "ament_cmake_package_templates/templates.cmake"
   "/home/nathan/practice_ws/src/exercise/CMakeLists.txt"
   "/home/nathan/practice_ws/src/exercise/package.xml"
+  "/opt/ros/humble/lib/python3.10/site-packages/ament_package/template/environment_hook/pythonpath.sh.in"
   "/opt/ros/humble/lib/python3.10/site-packages/ament_package/template/package_level/local_setup.bash.in"
   "/opt/ros/humble/lib/python3.10/site-packages/ament_package/template/package_level/local_setup.sh.in"
   "/opt/ros/humble/lib/python3.10/site-packages/ament_package/template/package_level/local_setup.zsh.in"
@@ -150,6 +151,8 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_autoConfig.cmake"
   "/opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_find_test_dependencies.cmake"
   "/opt/ros/humble/share/ament_lint_auto/cmake/ament_lint_auto_package_hook.cmake"
+  "/opt/ros/humble/share/rclpy/cmake/rclpyConfig-version.cmake"
+  "/opt/ros/humble/share/rclpy/cmake/rclpyConfig.cmake"
   )
 
 # The corresponding makefile is:
@@ -163,6 +166,10 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "ament_cmake_core/stamps/templates_2_cmake.py.stamp"
   "ament_cmake_uninstall_target/ament_cmake_uninstall_target.cmake"
   "CTestConfiguration.ini"
+  "ament_cmake_core/stamps/pythonpath.sh.in.stamp"
+  "ament_cmake_environment_hooks/pythonpath.sh"
+  "ament_cmake_core/stamps/package.xml.stamp"
+  "ament_cmake_core/stamps/package_xml_2_cmake.py.stamp"
   "ament_cmake_core/stamps/package.xml.stamp"
   "ament_cmake_core/stamps/package_xml_2_cmake.py.stamp"
   "ament_cmake_core/stamps/ament_prefix_path.sh.stamp"
@@ -174,6 +181,7 @@ set(CMAKE_MAKEFILE_PRODUCTS
   "ament_cmake_core/exerciseConfig.cmake"
   "ament_cmake_core/stamps/nameConfig-version.cmake.in.stamp"
   "ament_cmake_core/exerciseConfig-version.cmake"
+  "ament_cmake_python/scripts/setup.py"
   "ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/exercise"
   "ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/exercise"
   "ament_cmake_index/share/ament_index/resource_index/packages/exercise"
@@ -184,4 +192,6 @@ set(CMAKE_MAKEFILE_PRODUCTS
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/uninstall.dir/DependInfo.cmake"
   "CMakeFiles/exercise_uninstall.dir/DependInfo.cmake"
+  "CMakeFiles/ament_cmake_python_copy_scripts.dir/DependInfo.cmake"
+  "CMakeFiles/ament_cmake_python_build_scripts_egg.dir/DependInfo.cmake"
   )
