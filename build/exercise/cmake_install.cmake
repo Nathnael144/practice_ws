@@ -68,8 +68,9 @@ endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/exercise" TYPE PROGRAM FILES
-    "/home/nathan/practice_ws/src/exercise/scripts/publisher.py"
-    "/home/nathan/practice_ws/src/exercise/scripts/subscriber.py"
+    "/home/nathan/practice_ws/src/exercise/scripts/rpm_publisher.py"
+    "/home/nathan/practice_ws/src/exercise/scripts/speed_subscriber.py"
+    "/home/nathan/practice_ws/src/exercise/scripts/calc_speed.py"
     )
 endif()
 

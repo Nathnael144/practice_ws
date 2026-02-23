@@ -12,8 +12,10 @@ find_package(rclpy REQUIRED)
 
 ament_python_install_package(scripts)
 install( PROGRAMS
-  scripts/publisher.py
-  scripts/subscriber.py
+  scripts/rpm_publisher.py
+  scripts/speed_subscriber.py
+  scripts/calc_speed.py
+
   DESTINATION lib/${PROJECT_NAME}
 )
 

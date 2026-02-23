@@ -1,7 +1,10 @@
 setup.py
 scripts/__init__.py
+scripts/calc_speed.py
 scripts/pubilsher.py
 scripts/publisher.py
+scripts/rpm_publisher.py
+scripts/speed_subscriber.py
 scripts/subscriber.py
 scripts.egg-info/PKG-INFO
 scripts.egg-info/SOURCES.txt

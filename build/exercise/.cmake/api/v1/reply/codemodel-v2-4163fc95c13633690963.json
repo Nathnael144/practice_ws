@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-eb09888d9ed3531b8330.json",
+					"jsonFile" : "directory-.-afeac48ace5b57ca8af6.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.12"

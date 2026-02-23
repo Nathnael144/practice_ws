@@ -1,0 +1,22 @@
+[0.477s] Invoking command in '/home/nathan/practice_ws/src/my_pakage': PYTHONPATH=/home/nathan/practice_ws/build/my_pakage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pakage build --build-base /home/nathan/practice_ws/build/my_pakage/build install --record /home/nathan/practice_ws/build/my_pakage/install.log --single-version-externally-managed install_data
+[0.636s] running egg_info
+[0.637s] writing ../../build/my_pakage/my_pakage.egg-info/PKG-INFO
+[0.637s] writing dependency_links to ../../build/my_pakage/my_pakage.egg-info/dependency_links.txt
+[0.637s] writing entry points to ../../build/my_pakage/my_pakage.egg-info/entry_points.txt
+[0.637s] writing requirements to ../../build/my_pakage/my_pakage.egg-info/requires.txt
+[0.637s] writing top-level names to ../../build/my_pakage/my_pakage.egg-info/top_level.txt
+[0.638s] reading manifest file '../../build/my_pakage/my_pakage.egg-info/SOURCES.txt'
+[0.639s] writing manifest file '../../build/my_pakage/my_pakage.egg-info/SOURCES.txt'
+[0.639s] running build
+[0.639s] running build_py
+[0.639s] running install
+[0.639s] running install_lib
+[0.640s] running install_data
+[0.640s] running install_egg_info
+[0.641s] removing '/home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage-0.0.0-py3.10.egg-info' (and everything under it)
+[0.641s] Copying ../../build/my_pakage/my_pakage.egg-info to /home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages/my_pakage-0.0.0-py3.10.egg-info
+[0.641s] running install_scripts
+[0.655s] Installing my_publisher script to /home/nathan/practice_ws/install/my_pakage/lib/my_pakage
+[0.655s] Installing my_subscriber script to /home/nathan/practice_ws/install/my_pakage/lib/my_pakage
+[0.655s] writing list of installed files to '/home/nathan/practice_ws/build/my_pakage/install.log'
+[0.670s] Invoked command in '/home/nathan/practice_ws/src/my_pakage' returned '0': PYTHONPATH=/home/nathan/practice_ws/build/my_pakage/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/nathan/practice_ws/install/my_pakage/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_pakage build --build-base /home/nathan/practice_ws/build/my_pakage/build install --record /home/nathan/practice_ws/build/my_pakage/install.log --single-version-externally-managed install_data
